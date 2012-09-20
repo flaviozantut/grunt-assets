@@ -1,0 +1,20 @@
+{
+  "name": "flaviozantut-build",
+  "website": "http://www.flaviozantut.com",
+  "description": "Build script bootstrap",
+  "version": "1.0.0",
+  "main": "grunt.js",
+  "dependencies": {
+    "grunt": "~0.3.15",
+    "grunt-growl": "~0.1.2",
+    "grunt-contrib": "git://github.com/gruntjs/grunt-contrib.git"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Flávio zantut twitter@flazann github@flaviozantut",
+  "license": "MIT"
+}
